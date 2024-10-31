@@ -1,4 +1,4 @@
-# Atutomatização Contrato
+# Automatização Contrato
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no número de meses desejado.
 
@@ -25,29 +25,23 @@ Parcelas:
 <br>
 
 <div align="center">
-    <img width="70%" src"">
+    <img width="70%" src="https://github.com/user-attachments/assets/2f686013-17cd-415c-a91f-8d36da3165c4">
 </div>
 
 <br>
 
 <div align="center">
-    <img width="70%" src"">
+    <img width="70%" src="https://github.com/user-attachments/assets/6460a9d5-d1d4-4697-8467-b1bebcc28664">
 </div>
 
 <br>
 
 <div align="center">
-    <img width="70%" src"">
+    <img width="70%" src="https://github.com/user-attachments/assets/28c9a9f0-69d7-454c-bbff-c8392986129e">
 </div>
 
 <br>
 
 <div align="center">
-    <img width="70%" src"">
-</div>
-
-<br>
-
-<div align="center">
-    <img width="70%" src"">
+    <img width="70%" src="https://github.com/user-attachments/assets/7def0d7c-5735-48e2-aa6f-b0ed37bd7247">
 </div>
